@@ -2,7 +2,7 @@
 
 ---
 
-# OpenData Core (ODC) & EnterpriseWebAIFusion
+#    Open Data Core a Web3, AI, IoT native next-gen Composable Enterprise Fabric
 
 Welcome to the GitHub repository for OpenData Core (ODC) & EnterpriseWebAIFusion, a comprehensive project that aims to help enterprises navigate the complexities of Web3, Artificial Intelligence (AI), and Composable Enterprise with the Open Data Core (ODC).
 
